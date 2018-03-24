@@ -1,0 +1,30 @@
+{
+  "name": "chunk-cache",
+  "version": "0.0.1",
+  "description": "Simple cache for streamed HTML responses",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/estrattonbailey/chunk-cache.git"
+  },
+  "keywords": [
+    "chunk",
+    "cache",
+    "stream",
+    "renderToNodeStream",
+    "react",
+    "ssr",
+    "server",
+    "side",
+    "rendering"
+  ],
+  "author": "estrattonbailey",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/estrattonbailey/chunk-cache/issues"
+  },
+  "homepage": "https://github.com/estrattonbailey/chunk-cache#readme"
+}
