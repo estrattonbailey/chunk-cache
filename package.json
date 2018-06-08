@@ -1,6 +1,6 @@
 {
   "name": "chunk-cache",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Simple cache for streamed HTML responses",
   "main": "index.js",
   "scripts": {
